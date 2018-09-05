@@ -14,4 +14,5 @@ test merge --no-ff
 test modify  dev readme.txt
 branch to master readme.txt  by master
 
-test master branch without commit
+test master again  branch without commit
+
