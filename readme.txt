@@ -12,3 +12,4 @@ create a new branch dec
 test merge --no-ff
 
 test modify  dev readme.txt
+branch to master readme.txt  by master
